@@ -1,8 +1,18 @@
 Lab Report 4 - Vim (Week 7)
 
-![Image](secondlastlab1.png)
-![Image](secondlastlab2.png)
-![Image](secondlastlab3.png)
+Step 4:
+
+![Image](lab4redo1.png)
+
+Keys pressed: ssh mzaid@ieng6.ucsd.edu <enter>   This is the step for logging into your ieng account.
+
+Step 5:
+
+![Image](labredo2.png)
+
+Keys pressed: git clone <control V> <enter>  This is the step for cloning a repository and the control v was essentially pasting the link
+
+![Image](labredo3.png)
 
 Keys pressed: `j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, j, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, i, x, 2, esc, :wq`
 
