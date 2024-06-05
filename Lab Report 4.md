@@ -28,4 +28,10 @@ Step 8:
 
 ![Image](lab4redo5.png)
 
+Keys pressed: bash test.sh, <enter>. This is to run the test again after editing.
+
+Step 9:
+
+![Image](lab4redo6.png)
+
 Keys pressed: 
