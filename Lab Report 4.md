@@ -22,4 +22,10 @@ Step 7:
 
 ![Image](lab4redo4.png)
 
+Keys pressed: vim ListExamples, <enter> 43 times j, 5 times l, i, x, 2, esc, :wq and <enter>. The first command was essnetially to open vim and access the file. The second step was to navigate around where j is down, l is to go to the right, i to insert, x to delete, 2 to insert 2 for 1 and esc to go to normal mode. Finally, :wq then <enter> to go back to terminal.
+
+Step 8:
+
+![Image](lab4redo5.png)
+
 Keys pressed: 
