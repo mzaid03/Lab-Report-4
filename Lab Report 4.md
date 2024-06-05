@@ -12,6 +12,14 @@ Step 5:
 
 Keys pressed: git clone <control V> <enter>  This is the step for cloning a repository and the control v was essentially pasting the link
 
-![Image](labredo3.png)
+Step 6:
+
+![Image](lab4redo3.png)
 
 Keys pressed: cd lab7 <enter>, bash test.sh <enter>. The first command was essentially to change the directory to lab7. Enter to input it. And the the next command was test.sh which was to run the test.
+
+Step 7:
+
+![Image](lab4redo4.png)
+
+Keys pressed: 
