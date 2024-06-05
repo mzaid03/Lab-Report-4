@@ -34,4 +34,4 @@ Step 9:
 
 ![Image](lab4redo6.png)
 
-Keys pressed: 
+Keys pressed: git add ., git commit -m "j", <enter>, git push, <enter>. These commands are essentially to push the changes I had to make to the files in my Github.
